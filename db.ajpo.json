@@ -1,0 +1,6 @@
+{
+   "dbname":"ajpo",
+   "tables":[
+      { "tbl_name":"user","create":"create table user ( id integer primary key , name varchar , last_name varchar )"}
+   ]
+}
