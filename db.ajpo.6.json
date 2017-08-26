@@ -1,0 +1,15 @@
+{
+   "dbname":"ajpo",
+   "tables":[
+      { 
+         "tbl_name":"user",
+         "create":"create table user ( id integer primary key , name varchar , last_name varchar )",
+         "querys":[
+            "insert into user (id,name,last_name) values (1,\"alvaro jose\",\"peralta ocampo\")",
+            "insert into user (id,name,last_name) values (2,\"bernardita\",\"roa astete\")",
+            "insert into user (id,name,last_name) values (3,\"juan sebastian\",\"peralta ocampo\")",
+            "insert into user (id,name,last_name) values (4,\"constanza\",\"roa astete\")"
+         ]
+      }
+   ]
+ }
